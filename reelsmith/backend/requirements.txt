@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+ffmpeg-python
+opencv-python
+pydub
+cloudinary
+python-dotenv
+requests
+librosa
