@@ -7,3 +7,4 @@ cloudinary
 python-dotenv
 requests
 librosa
+python-multipart
